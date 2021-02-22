@@ -17,8 +17,8 @@ jobs:
     - name: docker login
       run: docker login -u bnn987654321 -p yali1114
     - name: Build the Docker image
-      run: docker build . --file Dockerfile --tag bnn987654321/webapptest:$(date +%s)
+      run: docker build . --file Dockerfile --tag bnn987654321/webapptest
     - name: Docker Push
-      run: docker push bnn987654321/webapptest:$(date +%s)
+      run: docker push bnn987654321/webapptest
     - name: Check Docker image
       run: docker images
