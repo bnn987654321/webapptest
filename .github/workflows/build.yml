@@ -49,7 +49,6 @@ jobs:
         uses: dawidd6/action-send-mail@v2
         with:
           server_address: owa10.res.com.tw
-          server_port: 25
           username: bnn@res.com.tw
           password: Res09264
           subject: Github Actions job result
