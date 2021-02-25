@@ -1,0 +1,5 @@
+File name	Line	Function	Duration[ms]	Explored nodes
+C:\Users\user\source\repos\webapptest\WebApplication1\Controllers\HomeController.cs	20	_WebApplication1.Controllers.HomeController.Index$$	0	2
+C:\Users\user\source\repos\webapptest\WebApplication1\Controllers\HomeController.cs	25	_WebApplication1.Controllers.HomeController.Privacy$$	0	2
+C:\Users\user\source\repos\webapptest\WebApplication1\Program.cs	13	_WebApplication1.Program.Main$string$$$	0	3
+C:\Users\user\source\repos\webapptest\WebApplication1\Startup.cs	23	_WebApplication1.Startup.ConfigureServices$Microsoft.Extensions.DependencyInjection.IServiceCollection$	0	3

@@ -1,0 +1,58 @@
+C:\Users\user\source\repos\webapptest\WebApplication1\Controllers\HomeController.cs
+Index 48
+Index -1
+Privacy 2
+Privacy -1
+Error 5
+Error -1
+
+C:\Users\user\source\repos\webapptest\WebApplication1\Models\ErrorViewModel.cs
+
+C:\Users\user\source\repos\webapptest\WebApplication1\Program.cs
+Main 7
+Main -1
+CreateHostBuilder 2
+CreateHostBuilder -1
+
+C:\Users\user\source\repos\webapptest\WebApplication1\Startup.cs
+ConfigureServices 3
+ConfigureServices -1
+Configure 2
+Configure -1
+
+C:\Users\user\source\repos\webapptest\WebApplication1\obj\Debug\net5.0\.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+
+C:\Users\user\source\repos\webapptest\WebApplication1\obj\Debug\net5.0\WebApplication1.AssemblyInfo.cs
+
+C:\Users\user\source\repos\webapptest\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorAssemblyInfo.cs
+
+C:\Users\user\source\repos\webapptest\WebApplication1\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+ExecuteAsync 5
+ExecuteAsync -1
+
+C:\Users\user\source\repos\webapptest\WebApplication1\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+ExecuteAsync 2
+ExecuteAsync -1
+
+C:\Users\user\source\repos\webapptest\WebApplication1\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+ExecuteAsync 2
+ExecuteAsync -1
+
+C:\Users\user\source\repos\webapptest\WebApplication1\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+ExecuteAsync 2
+ExecuteAsync -1
+
+C:\Users\user\source\repos\webapptest\WebApplication1\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+ExecuteAsync 2
+ExecuteAsync -1
+
+C:\Users\user\source\repos\webapptest\WebApplication1\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+ExecuteAsync 2
+ExecuteAsync -1
+
+C:\Users\user\source\repos\webapptest\WebApplication1\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+ExecuteAsync 2
+ExecuteAsync -1
+
+C:\Users\user\source\repos\webapptest\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorTargetAssemblyInfo.cs
+
