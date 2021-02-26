@@ -49,7 +49,6 @@ C:\Users\user\source\repos\webapptest\WebApplication1\bin\Debug\net5.0\ref\WebAp
 C:\Users\user\source\repos\webapptest\WebApplication1\bin\Debug\net5.0\WebApplication1.pdb
 C:\Users\user\source\repos\webapptest\WebApplication1\bin\Debug\net5.0\WebApplication1.Views.dll
 C:\Users\user\source\repos\webapptest\WebApplication1\bin\Debug\net5.0\WebApplication1.Views.pdb
-C:\Users\user\source\repos\webapptest\WebApplication1\obj\Debug\net5.0\WebApplication1.csprojAssemblyReference.cache
 C:\Users\user\source\repos\webapptest\WebApplication1\obj\Debug\net5.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\user\source\repos\webapptest\WebApplication1\obj\Debug\net5.0\WebApplication1.AssemblyInfoInputs.cache
 C:\Users\user\source\repos\webapptest\WebApplication1\obj\Debug\net5.0\WebApplication1.AssemblyInfo.cs
@@ -78,3 +77,4 @@ C:\Users\user\source\repos\webapptest\WebApplication1\obj\Debug\net5.0\ref\WebAp
 C:\Users\user\source\repos\webapptest\WebApplication1\obj\Debug\net5.0\WebApplication1.pdb
 C:\Users\user\source\repos\webapptest\WebApplication1\obj\Debug\net5.0\WebApplication1.genruntimeconfig.cache
 C:\Users\user\source\repos\webapptest\WebApplication1\obj\Debug\net5.0\WebApplication1.csproj.CopyComplete
+C:\Users\user\source\repos\webapptest\WebApplication1\obj\Debug\net5.0\WebApplication1.csprojAssemblyReference.cache
