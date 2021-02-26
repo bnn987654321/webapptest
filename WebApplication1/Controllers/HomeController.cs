@@ -9,6 +9,7 @@ namespace WebApplication1.Controllers
     {
         public IActionResult Index()
         {
+            string aa = 8;
             return View();
         }
 
